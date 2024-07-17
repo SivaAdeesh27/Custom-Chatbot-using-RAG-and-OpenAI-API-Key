@@ -1,7 +1,7 @@
 # Project Overview
 
 ## Purpose
-The project aims to create a chatbot uses RAG(Retrieval Augmented Generation) that interacts with users based on uploaded documents, providing answers and managing conversation history.
+The project aims to create a chatbot uses RAG(Retrieval Augmented Generation) and openai api key that interacts with users based on uploaded documents, providing answers and managing conversation history.
 
 ## Components and Features
 
